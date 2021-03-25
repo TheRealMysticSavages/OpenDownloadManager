@@ -1,0 +1,9 @@
+C:\Users\adijo\source\repos\OpenDownloadManagerv1.1CSharp\OpenDownloadManagerv1.1CSharp\obj\Debug\OpenDownloadManagerv1._1CSharp.Form1.resources
+C:\Users\adijo\source\repos\OpenDownloadManagerv1.1CSharp\OpenDownloadManagerv1.1CSharp\obj\Debug\OpenDownloadManagerv1._1CSharp.Properties.Resources.resources
+C:\Users\adijo\source\repos\OpenDownloadManagerv1.1CSharp\OpenDownloadManagerv1.1CSharp\obj\Debug\OpenDownloadManagerv1.1CSharp.csproj.GenerateResource.cache
+C:\Users\adijo\source\repos\OpenDownloadManagerv1.1CSharp\OpenDownloadManagerv1.1CSharp\obj\Debug\OpenDownloadManagerv1.1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\adijo\source\repos\OpenDownloadManagerv1.1CSharp\OpenDownloadManagerv1.1CSharp\bin\Debug\OpenDownloadManagerv1.1CSharp.exe.config
+C:\Users\adijo\source\repos\OpenDownloadManagerv1.1CSharp\OpenDownloadManagerv1.1CSharp\bin\Debug\OpenDownloadManagerv1.1CSharp.exe
+C:\Users\adijo\source\repos\OpenDownloadManagerv1.1CSharp\OpenDownloadManagerv1.1CSharp\bin\Debug\OpenDownloadManagerv1.1CSharp.pdb
+C:\Users\adijo\source\repos\OpenDownloadManagerv1.1CSharp\OpenDownloadManagerv1.1CSharp\obj\Debug\OpenDownloadManagerv1.1CSharp.exe
+C:\Users\adijo\source\repos\OpenDownloadManagerv1.1CSharp\OpenDownloadManagerv1.1CSharp\obj\Debug\OpenDownloadManagerv1.1CSharp.pdb
